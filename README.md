@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Pablo</h1>
-<h3 align="center">un apacionado de la arquitectura de de los sistemas en general</h3>
+<h3 align="center">un apacionado de la arquitectura y de los sistemas en general</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pcastelo&label=Profile%20views&color=0e75b6&style=flat" alt="pcastelo" /> </p>
 
