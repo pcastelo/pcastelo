@@ -9,7 +9,6 @@
 - 💬  Pregúntame acerca de **arquitectura , desarrollo en java , cloud**
 - 📫 Cómo contactarme **pcastelo@redhat.com**
 - 🔭 Estoy trabajando en varios proyectos transformacionales
-- 🌱 Estoy aprendiendo Quarkus
 
 <h3 align="left">Connect with me:</h3>
 
