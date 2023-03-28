@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/castelitop" target="blank"><img src="https://img.shields.io/twitter/follow/castelitop?logo=twitter&style=for-the-badge" alt="castelitop" /></a> </p>
 
-<> - 🌱 Estoy aprendiendo **Quarkus**
+//<> - 🌱 Estoy aprendiendo **Quarkus**
 - 💬  Pregúntame acerca de **arquitectura , desarrollo en java , cloud**
 - 📫 Cómo contactarme **pcastelo@redhat.com**
 - 🔭 Estoy trabajando en varios proyectos transformacionales
