@@ -1,13 +1,17 @@
 <h1 align="center">Hola 👋, soy Pablo</h1>
 <h3 align="center">un apacionado de la arquitectura y de los sistemas en general</h3>
 
+Soy un arquitecto de IT experimentado actualmente trabajo en Red Hat con más de 15 años de experiencia en el sector, impulsando la transformación digital. 
+Me especializa en el diseño e implementación de soluciones robustas y escalables utilizando tecnologías nativas de la nube y prácticas DevOps. 
+Con un profundo conocimiento de Kubernetes, OpenShift, GitOps entre otros  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pcastelo&label=Profile%20views&color=0e75b6&style=flat" alt="pcastelo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/castelitop" target="blank"><img src="https://img.shields.io/twitter/follow/castelitop?logo=twitter&style=for-the-badge" alt="castelitop" /></a> </p>
 
 <!---  - 🌱 Estoy aprendiendo **Quarkus** --->
 - 💬  Pregúntame acerca de **arquitectura , desarrollo en java , cloud**
-- :bulb: 
+- :bulb: Fanatico de IOT  y Home Automation
 - 📫 Cómo contactarme **pcastelo@redhat.com**
 - 🔭 Estoy trabajando en varios proyectos transformacionales
 
