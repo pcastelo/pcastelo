@@ -7,7 +7,7 @@
 
 <!---  - 🌱 Estoy aprendiendo **Quarkus** --->
 - 💬  Pregúntame acerca de **arquitectura , desarrollo en java , cloud**
-- <ha-icon icon="mdi:lightbulb"></ha-icon>
+- :bulb: 
 - 📫 Cómo contactarme **pcastelo@redhat.com**
 - 🔭 Estoy trabajando en varios proyectos transformacionales
 
