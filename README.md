@@ -1,40 +1,64 @@
-<h1 align="center">Hola 👋, soy Pablo</h1>
-<h3 align="center">un apacionado de la arquitectura y de los sistemas en general</h3>
+<h1 align="center">Hi 👋, I'm Pablo Castelo</h1>
+<h3 align="center">IT Architect | Platform Engineering Ambassador | Cloud Native Enthusiast</h3>
 
-Soy un arquitecto de IT experimentado actualmente trabajo en Red Hat con más de 15 años de experiencia en el sector, impulsando la transformación digital. 
-Me especializa en el diseño e implementación de soluciones robustas y escalables utilizando tecnologías nativas de la nube y prácticas DevOps. 
-Con un profundo conocimiento de Kubernetes, OpenShift, GitOps entre otros  
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablocastelo/?locale=en-US" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/castelitop" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pcastelo&label=Profile%20views&color=0e75b6&style=flat" alt="pcastelo" /> </p>
+I am an IT Architect at the **Red Hat LATAM Solutions & Technology Practice** with over 15 years of experience driving digital transformation. 
+As a **Red Hat Certified Architect (RHCA)**, I specialize in leveraging cloud-native technologies and DevOps practices to design and implement robust, scalable solutions for complex business challenges. 
+Beyond my daily work with Kubernetes, OpenShift, and GitOps, I am deeply committed to the open-source community as a **Platform Engineering Ambassador** and as the **Founder of Open Source Santiago**, where I strive to foster vibrant technical communities based on collaboration, learning, and continuous growth.
 
-<p align="left"> <a href="https://twitter.com/castelitop" target="blank"><img src="https://img.shields.io/twitter/follow/castelitop?logo=twitter&style=for-the-badge" alt="castelitop" /></a> </p>
-
-<!---  - 🌱 Estoy aprendiendo **Quarkus** --->
-- 💬  Pregúntame acerca de **arquitectura , desarrollo en java , cloud**
-- :bulb: Fanatico de IOT  y Home Automation
-- 📫 Cómo contactarme **pcastelo@redhat.com**
-- 🔭 Estoy trabajando en varios proyectos transformacionales
-
-<h3 align="left">Connect with me:</h3>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Thunderos#5631) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablocastelo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/castelitop) 
-
-### 💻Tech Stack
-
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-
-### 📊GitHub Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcastelo&show_icons=true&locale=en&layout=compact" alt="pcastelo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcastelo&show_icons=true&locale=en" alt="pcastelo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pcastelo&" alt="pcastelo" /></p>
-
-### 🏆GitHub Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcastelo" alt="pcastelo" /></a> </p>
+- 💬 Ask me about **Platform Engineering, Cloud Architecture, Kubernetes, and GitOps**
+- 🌱 **Founder** of [Open Source Santiago](https://blog.opensourcesantiago.io/)
+- 🔭 Currently helping organizations adopt cutting-edge technologies and achieve their strategic goals
+- :bulb: I'm a huge fan of IoT and Home Automation, always looking for innovative ways to solve problems
+- 📫 How to reach me: **pcastelo@redhat.com**
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### 🛠️ Tech Stack & Tools
 
+**Cloud Native & Containers:**  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+
+**DevOps & Platform Engineering:**  
+![Red Hat Developer Hub](https://img.shields.io/badge/RH%20Developer%20Hub-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white) ![Backstage](https://img.shields.io/badge/Backstage-99E07D?style=for-the-badge&logo=backstage&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+
+
+---
+
+### 📝 Latest Articles & Talks
+
+**Platform Engineering:**
+- [Building your golden path: lessons from the trenches](https://platformengineering.org/blog/building-your-golden-path-lessons-from-the-trenches)
+- [Latin America Builds Different: Platform Engineering Adoption Stories](https://platformengineering.org/events/latin-america-builds-different-platform-engineering-adoption-stories-2025-08-21) | [Watch on YouTube](https://www.youtube.com/live/cS7S5a78q_U)
+- [Friends Talk: What is Platform Engineering and why does it matter?](https://blog.opensourcesantiago.io/friends-talk-what-is-platform-engineering-and-why-does-it-matter)
+
+**Red Hat & OpenShift (GitOps / Cloud):**
+- [Migrate SSO to Red Hat build of Keycloak](https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak)
+- [How to connect Kubernetes clusters with Service Interconnect](https://developers.redhat.com/articles/2023/10/18/how-connect-kubernetes-clusters-service-interconnect)
+- [How to deploy a single sign-on code using GitOps](https://developers.redhat.com/articles/2023/04/10/how-deploy-single-sign-code-using-gitops)
+- [Deploy OpenShift on Azure with GitOps (Part 2)](https://developers.redhat.com/articles/2023/03/17/deploy-openshift-azure-gitops-part-2)
+- [How to deploy OpenShift on Azure from the GUI (Part 1)](https://developers.redhat.com/articles/2023/03/16/how-deploy-openshift-azure-gui-part-1)
+- [Multi-cluster deployment on Kubernetes with GitOps](https://www.redhat.com/en/blog/multi-cluster-deployment-kubernetes-gitops)
+
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcastelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pablo's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcastelo&layout=compact&theme=radical" alt="Pablo's Top Languages"/>
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pcastelo&label=Profile%20views&color=0e75b6&style=flat" alt="pcastelo views" /> </p>
