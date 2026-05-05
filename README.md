@@ -57,8 +57,8 @@ Beyond my daily work with Kubernetes, OpenShift, and GitOps, I am deeply committ
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcastelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pablo's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcastelo&layout=compact&theme=radical" alt="Pablo's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pcastelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pablo's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pcastelo&layout=compact&theme=radical" alt="Pablo's Top Languages"/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pcastelo&label=Profile%20views&color=0e75b6&style=flat" alt="pcastelo views" /> </p>
