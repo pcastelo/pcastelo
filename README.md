@@ -15,7 +15,7 @@ As a **Red Hat Certified Architect (RHCA)**, I specialize in leveraging cloud-na
 Beyond my daily work with Kubernetes, OpenShift, and GitOps, I am deeply committed to the open-source community as a **Platform Engineering Ambassador** and as the **Founder of Open Source Santiago**, where I strive to foster vibrant technical communities based on collaboration, learning, and continuous growth.
 
 - 💬 Ask me about **Platform Engineering, Cloud Architecture, Kubernetes, and GitOps**
-- 🌱 **Founder** of [Open Source Santiago](https://blog.opensourcesantiago.io/)
+- 🌱 **Founder** of [Open Source Santiago](https://opensourcesantiago.io/)
 - 🔭 Currently helping organizations adopt cutting-edge technologies and achieve their strategic goals
 - :bulb: I'm a huge fan of IoT and Home Automation, always looking for innovative ways to solve problems
 - 📫 How to reach me: **pcastelo@redhat.com**
